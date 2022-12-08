@@ -5,12 +5,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cooky:charcoal_sand"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
+          "name": "cooky:wet_charcoal_sand"
         }
       ]
     }

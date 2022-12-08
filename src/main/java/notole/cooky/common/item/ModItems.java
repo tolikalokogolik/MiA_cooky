@@ -19,9 +19,6 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, notole.cooky.Cooky.MODID);
 
-    public static final RegistryObject<Item> WET_CHARCOAL_SAND = ITEMS.register("wet_charcoal_sand",
-            () -> new BlockItem(ModBlocks.WET_CHARCOAL_SAND.get(), new Item.Properties().tab(ModCreativeModeTab.MOD_TAB)));
-
 
     public static final RegistryObject<Item> CHASAND_PLATE = ITEMS.register("chasand_plate",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MOD_TAB)));

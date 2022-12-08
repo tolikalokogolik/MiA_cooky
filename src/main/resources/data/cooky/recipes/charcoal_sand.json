@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "charcoal_sand",
+  "ingredient": {
+    "item": "cooky:wet_charcoal_sand"
+  },
+  "result": "cooky:charcoal_sand"
+}
