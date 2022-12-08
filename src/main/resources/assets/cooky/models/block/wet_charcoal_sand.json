@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "cooky:block/charcoal_sand"
+    "all": "cooky:block/wet_charcoal_sand"
   }
 }

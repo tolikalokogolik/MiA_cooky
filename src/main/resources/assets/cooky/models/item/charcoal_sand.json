@@ -1,3 +1,6 @@
 {
-  "parent": "cooky:block/charcoal_sand"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cooky:item/charcoal_sand"
+  }
 }

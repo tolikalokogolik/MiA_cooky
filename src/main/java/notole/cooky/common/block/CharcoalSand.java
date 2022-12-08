@@ -1,11 +1,7 @@
-package notole.cooky.common.blocks;
+package notole.cooky.common.block;
 
-import net.minecraft.world.level.block.state.BlockBehaviour;
 import org.openjdk.nashorn.internal.ir.Block;
 import org.openjdk.nashorn.internal.ir.Statement;
-
-import java.util.List;
-import java.util.Properties;
 
 public class CharcoalSand extends Block {
 
